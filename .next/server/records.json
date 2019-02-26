@@ -17,11 +17,11 @@
   },
   "chunks": {
     "byName": {
-      "static\\OB0eunkFpTPtTigzCqeWQ\\pages\\_app.js": 0,
-      "static\\OB0eunkFpTPtTigzCqeWQ\\pages\\_document.js": 1,
-      "static\\OB0eunkFpTPtTigzCqeWQ\\pages\\_error.js": 2,
-      "static\\OB0eunkFpTPtTigzCqeWQ\\pages\\about.js": 3,
-      "static\\OB0eunkFpTPtTigzCqeWQ\\pages\\index.js": 4
+      "static\\hQccu1~~roC9sSaG2WzVY\\pages\\_app.js": 0,
+      "static\\hQccu1~~roC9sSaG2WzVY\\pages\\_document.js": 1,
+      "static\\hQccu1~~roC9sSaG2WzVY\\pages\\_error.js": 2,
+      "static\\hQccu1~~roC9sSaG2WzVY\\pages\\about.js": 3,
+      "static\\hQccu1~~roC9sSaG2WzVY\\pages\\index.js": 4
     },
     "bySource": {},
     "usedIds": [
