@@ -1,0 +1,26 @@
+{
+  "name": "pricecoin-nextjs",
+  "version": "1.0.0",
+  "description": "Bitcoin price application using Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvld/PriceCoin-Nextjs.git"
+  },
+  "author": "Niko Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvld/PriceCoin-Nextjs/issues"
+  },
+  "homepage": "https://github.com/dvld/PriceCoin-Nextjs#readme",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
